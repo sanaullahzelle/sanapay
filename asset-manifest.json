@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sanapay/static/css/main.b8df004e.css",
+    "main.js": "/sanapay/static/js/main.8ca6435d.js",
+    "index.html": "/sanapay/index.html",
+    "main.b8df004e.css.map": "/sanapay/static/css/main.b8df004e.css.map",
+    "main.8ca6435d.js.map": "/sanapay/static/js/main.8ca6435d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8df004e.css",
+    "static/js/main.8ca6435d.js"
+  ]
+}
